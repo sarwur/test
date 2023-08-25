@@ -1,2 +1,4 @@
 # test
-This is Test Repository
+This is a Test Repository
+
+How to work github
